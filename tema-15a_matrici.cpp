@@ -2,6 +2,9 @@
 
 int main()
 {
-    std::cout << "Hello World!\n";
+	//sol1();
+	//sol2();
+	//sol3();
+	sol4();
 }
 
